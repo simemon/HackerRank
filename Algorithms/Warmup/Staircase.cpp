@@ -1,3 +1,7 @@
+/*
+https://www.hackerrank.com/challenges/staircase
+*/
+
 #include <map>
 #include <set>
 #include <list>
